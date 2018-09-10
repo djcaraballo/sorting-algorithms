@@ -1,0 +1,19 @@
+{
+  "name": "@djcaraballo/sorting-algorithms",
+  "version": "1.0.0",
+  "description": "Example npm from class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djcaraballo/sorting-algorithms.git"
+  },
+  "author": "dina caraballo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djcaraballo/sorting-algorithms/issues"
+  },
+  "homepage": "https://github.com/djcaraballo/sorting-algorithms#readme"
+}
